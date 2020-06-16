@@ -1,0 +1,6 @@
+﻿  Task1Student4.cpp
+D:\Practice-1C\Task1Student4\Task1Student4\Task1Student4.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Practice-1C\Task1Student4\Task1Student4\Task1Student4.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Practice-1C\Task1Student4\Task1Student4\Task1Student4.cpp(33,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Practice-1C\Task1Student4\Task1Student4\Task1Student4.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Task1Student4.vcxproj -> D:\Practice-1C\Task1Student4\Debug\Task1Student4.exe
